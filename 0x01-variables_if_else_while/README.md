@@ -11,3 +11,5 @@
 #### 8-print_base16.c - program that prints all numbers in base 16 in lowercase
 #### 9-print_comb.c - program that prints all combination of single digits with putchar separated with comma and space
 #### 100-print_comb3.c - program that prints possible combinations of two single digits without repetion of two numbers
+#### 101-print_comb4.c - program that prints all possible different combinations of three digits without repeating combination of digits
+#### 102-print_comb5.c - program that prints all possible combinations of two two-digit numbers.
