@@ -1,4 +1,3 @@
-#include "main.h"
 /**
   * reset_to_98 - a function to reset the value of an int
   * @n: a pointer to integer we want to set 98
