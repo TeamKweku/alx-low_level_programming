@@ -5,3 +5,5 @@
 #### 0x01-variables_if_else_while - contains C program files on conditionals in the C language
 #### 0x02-functions_nested_loops - contains C program files on functions, loops and nested loops in the C language
 #### 0x03-debuggin - contains C program files on debuggind various C source codes with certain bugs
+#### 0x04. C - More functions, more nested loops - repo for examples on extra functions in C Programming
+#### 0x05. C - Pointers, arrays and strings - repo contain functions on introduction to pointers, arrays and strings
