@@ -17,7 +17,7 @@ int main(void)
 	sum = 0;
 	srand(time(NULL));
 
-	for (i = 0, i < 100; i++)
+	for (i = 0; i < 100; i++)
 	{
 		password[i] = rand() % 78;
 		sum += (password[i] + '0');
