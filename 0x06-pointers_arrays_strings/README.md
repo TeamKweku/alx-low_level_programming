@@ -10,3 +10,4 @@
 #### 7-leet.c - function that encodes a string into 1337(leet encoding)
 #### 100-rot13.c -  function that encodes a string using rot13
 #### 101-print_number.c - function that prints an integer with only _puchar function
+#### 102-magic.c - one line of code addition, so that the program prints a[2] = 98
