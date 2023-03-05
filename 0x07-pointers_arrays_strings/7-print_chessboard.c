@@ -2,7 +2,7 @@
 /**
   * print_chessboard - function that prints the chessboard
   * @a: pointer to a two dimen array
-  * 
+  *
   * Return: nothing
   */
 void print_chessboard(char (*a)[8])
