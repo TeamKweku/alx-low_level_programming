@@ -8,3 +8,4 @@
 #### 0x04. C - More functions, more nested loops - repo for examples on extra functions in C Programming
 #### 0x05. C - Pointers, arrays and strings - repo contain functions on introduction to pointers, arrays and strings
 #### 0x06. C - More pointers, arrays and strings - repo on more pointers, arrays and string manipulations
+#### 0x07. C - Even more pointers, arrays and strings
