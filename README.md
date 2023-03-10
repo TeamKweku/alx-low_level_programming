@@ -9,3 +9,5 @@
 #### 0x05. C - Pointers, arrays and strings - repo contain functions on introduction to pointers, arrays and strings
 #### 0x06. C - More pointers, arrays and strings - repo on more pointers, arrays and string manipulations
 #### 0x07. C - Even more pointers, arrays and strings
+#### 0x08. C - Recursion - This repo contains source code on recursive function implementation
+#### 0x09. C - Static libraries - This repo contains an archieve static library file containing all functions used in previous repos and a script to create a static library from .c files
