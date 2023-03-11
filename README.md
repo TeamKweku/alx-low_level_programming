@@ -11,3 +11,4 @@
 #### 0x07. C - Even more pointers, arrays and strings
 #### 0x08. C - Recursion - This repo contains source code on recursive function implementation
 #### 0x09. C - Static libraries - This repo contains an archieve static library file containing all functions used in previous repos and a script to create a static library from .c files
+#### 0x0A. C - argc, argv - repo contains source code of manipulation of various arguments to main program passed by the commandline
