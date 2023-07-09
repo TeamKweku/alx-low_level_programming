@@ -220,7 +220,7 @@ char *shash_table_get(const shash_table_t *ht, const char *key)
 }
 
 /**
- * hash_table_delete - a function that deletes provided hash table
+ * shash_table_delete - a function that deletes provided hash table
  * @ht: takes node as parameter
  *
  * Return: nothing
